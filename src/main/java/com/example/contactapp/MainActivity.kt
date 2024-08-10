@@ -168,7 +168,7 @@ class MainActivity : ComponentActivity() {
                             Toast.makeText(context, "Contacts", Toast.LENGTH_SHORT).show()
                         }) {
                             Icon(
-                                painter = painterResource(id = R.drawable.contaction),
+                                painter = painterResource(id = R.drawable.images),
                                 contentDescription = null
                             )
                         }
